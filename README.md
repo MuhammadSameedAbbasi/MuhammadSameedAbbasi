@@ -1,16 +1,20 @@
-### Hi there 👋
+# Muhammad Sameed Abbasi
+## Software Engineer | Solution Architect | Machine Learning Enthusiast
 
-<!--
-**MuhammadSameedAbbasi/MuhammadSameedAbbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I'm Muhammad Sameed Abbasi, a software engineer from Karachi, Pakistan. I have a bachelor's degree in Computer Systems Engineering from NED University and I'm currently working as a Junior Application Consultant at Logiciel Services. I'm passionate about creating innovative solutions using cutting-edge technologies and learning new skills along the way.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Tools
+- Programming Languages: C#, Python, Java, SQL
+- Frameworks and Libraries: .NET, Android Studio, Azure, Unity Engine, Flask
+- Concepts and Paradigms: OOP, RDBMS, Data Structures, Design Patterns, Machine Learning
+- Tools and Platforms: Visual Studio, VS Code, Git, GitHub, Jupyter Notebook, Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- **Targeted Fuel Pricing System**: A system that uses machine learning to detect car category and return a corresponding subsidized fuel price in real time. I was responsible for designing, architecting, and developing the backend of the system using Python, OpenCV, Flask, and Azure.
+- **Optimized Distribution in Networks**: A simulation of a message distribution to achieve network saturation while maintaining origin untraceability. I used Python to implement the algorithm and analyze the results.
+- **Inventory Management System**: A system for a spare parts vendor, with features such as aggregated history log and efficient restock system. I worked as a business analyst, database developer, and .NET developer using C#, Win Forms, SQL Server, and Azure Database.
+
+## 📫 How to reach me
+- Email: msameedabbasi@gmail.com
+- Phone: (+92) 3312652818
+- LinkedIn: Muhammad Sameed Abbasi
