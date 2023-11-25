@@ -16,5 +16,4 @@ Hi there 👋, I'm Muhammad Sameed Abbasi, a software engineer from Karachi, Pak
 
 ## 📫 How to reach me
 - Email: msameedabbasi@gmail.com
-- Phone: (+92) 3312652818
-- LinkedIn: Muhammad Sameed Abbasi
+- LinkedIn: [Muhammad Sameed Abbasi](linkedin.com/in/muhammad-sameed-abbasi/)
